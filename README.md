@@ -1,4 +1,4 @@
-# shacl_ada
+# shacl-validator
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](LICENSE)
 [![Version](https://img.shields.io/badge/version-2026.10.06.2-blue?style=flat-square)](CHANGELOG.md)
@@ -47,6 +47,10 @@ Constraint evaluation is implemented: the engine (`SHACL_Ada.Eval`) evaluates no
 | `SECURITY.md`, `AGENTS.md`, `marketing.md` | Disclosure, AI guidance, audience context |
 | `THIRD_PARTY_NOTICES.md` | Open-source license disclosure (§29) |
 | `renovate.json` | Dependency updates (single config, runs anywhere) |
+
+## Notice
+
+This project is independently developed and is not affiliated with, endorsed by, or sponsored by AdaCore or W3C. Ada and SPARK are trademarks of their respective owners, used descriptively to indicate the implementation language only.
 
 ## License
 
